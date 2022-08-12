@@ -1,1 +1,2 @@
-# whitmanhall.github.io
+# Whitman Halls Website
+#Still under construction
