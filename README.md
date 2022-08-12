@@ -1,2 +1,2 @@
 # Whitman Halls Website
-Still under construction
+## Still under construction
